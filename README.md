@@ -20,13 +20,13 @@ Before diving into analysis, the dataset required cleaning. This involved handli
 
 # Exploratory Data Analysis (EDA):
 EDA was performed to uncover trends, correlations, and anomalies within the data. Various statistical and visual techniques were employed to gain insights into the sales patterns.
-Conclusion
-The sales data analysis provided valuable insights for business decision-making. The visualizations make it easier to interpret complex patterns within the data.
+
 # Key Findings
 Based on the analysis, several key findings were identified, such as peak sales periods, popular products, and customer preferences.
 
 # Visualization
 To better communicate the insights, visualizations were created using Matplotlib and Seaborn. These include line charts, bar graphs, and heatmaps.
-
+# Conclusion
+The sales data analysis provided valuable insights for business decision-making. The visualizations make it easier to interpret complex patterns within the data.
 
 
